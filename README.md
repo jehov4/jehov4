@@ -7,7 +7,7 @@
 
 - 🏠 Living near **Heilbronn, BW - Germany**
 
-- 🏢 Currently working for **Schwarz IT KG**
+- 🏢 Currently working for **@SchwarzIT**
 
 - 🌱 Currently learning **Flutter, Cyber Stuff, ...**
 
