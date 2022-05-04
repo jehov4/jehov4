@@ -32,7 +32,7 @@
 
 - 🤸 Some hobbies **Volleyball🏐, Cycling🚴, ...**
 
-- 📚 Currently Procrastinating
+- 🐶 Spirit Animal **A. Krieger**
 
 <p align="center">
   <img align="center" src="https://github.com/jehov4/jehov4/blob/main/35574917.png?raw=true" width=150px>
