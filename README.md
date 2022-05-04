@@ -34,6 +34,12 @@
 
 - 📚 Currently Procrastinating
 
+<p align="center">
+  <img align="center" src="https://github.com/jehov4/jehov4/blob/main/35574917.png?raw=true" width=150px>
+  <br>
+  <strong>A. Krieger</strong>
+</p>
+
 <h3 align="center">Some Github Stats:</h3>
 
 <p align="center">
