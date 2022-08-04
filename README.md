@@ -26,7 +26,7 @@
 
 - 🏢 Currently working for [@SchwarzIT](https://github.com/SchwarzIT)
 
-- 🌱 Currently learning **Flutter, Cyber Stuff, ...**
+- 🌱 Currently learning **Flutter, Rust, ...**
 
 - 📫 Reach me via **liam0407@live.com**
 
