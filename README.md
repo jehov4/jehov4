@@ -37,7 +37,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jehov4&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jehov4" />
 </p>
 <br>
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jehov4&show_icons=true&theme=dracula&locale=en" alt="jehov4" />
-</p>
-<br>
