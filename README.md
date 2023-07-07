@@ -41,6 +41,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jehov4&show_icons=true&theme=dracula&locale=en" alt="jehov4" />
 </p>
 <br>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jehov4&theme=dracula" alt="jehov4" />
-</p>
