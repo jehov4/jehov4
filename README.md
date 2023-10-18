@@ -3,7 +3,7 @@
   This is my private GitHub Account, offering a collection of school projects, private projects and other fancy stuff.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Current working Stack:</h3>
 <p align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1680px-Neovim-mark.svg.png" alt="neovim" height="40"/> </a>
