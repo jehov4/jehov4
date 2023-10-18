@@ -30,7 +30,7 @@
 
 - 🤸 Some hobbies **Volleyball🏐, Cycling🚴, ...**
 
-- 🐆 Spirit Animal **Algernop Krieger** 👨‍🔬
+- 👨‍🔬 Spirit Animal **Algernop Krieger**
 
 
 <br>
